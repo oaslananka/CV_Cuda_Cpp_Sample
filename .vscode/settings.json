@@ -1,0 +1,7 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "cmake.generator": "Visual Studio 16 2019",
+    "cmake.preferredGenerators": [
+        "Visual Studio 16 2019"
+    ]
+}
